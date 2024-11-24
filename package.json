@@ -1,5 +1,5 @@
 {
-  "name": "@pixi/particle-emitter",
+  "name": "@momer/pixi-particle-emitter",
   "version": "6.0.0",
   "main": "lib/particle-emitter.js",
   "module": "lib/particle-emitter.es.js",
@@ -85,5 +85,8 @@
       "test/pixi-v6-module"
     ]
   },
-  "private": true
+  "private": true,
+  "dependencies": {
+    "yarn": "^1.22.22"
+  }
 }
